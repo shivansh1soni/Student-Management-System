@@ -1,7 +1,7 @@
-package com.shivansh.studentmanagementsystem.controllers;
+package com.shivansh.controllers;
 
-import com.shivansh.studentmanagementsystem.models.AttendanceRecord;
-import com.shivansh.studentmanagementsystem.services.AttendanceRecordService;
+import com.shivansh.models.AttendanceRecord;
+import com.shivansh.services.AttendanceRecordService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

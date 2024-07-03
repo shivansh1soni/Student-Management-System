@@ -1,7 +1,7 @@
-package com.shivansh.studentmanagementsystem.controllers;
+package com.shivansh.controllers;
 
-import com.shivansh.studentmanagementsystem.models.Student;
-import com.shivansh.studentmanagementsystem.services.StudentService;
+import com.shivansh.models.Student;
+import com.shivansh.services.StudentService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

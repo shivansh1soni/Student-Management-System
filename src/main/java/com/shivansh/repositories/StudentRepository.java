@@ -1,6 +1,6 @@
-package com.shivansh.studentmanagementsystem.repositories;
+package com.shivansh.repositories;
 
-import com.shivansh.studentmanagementsystem.models.Student;
+import com.shivansh.models.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

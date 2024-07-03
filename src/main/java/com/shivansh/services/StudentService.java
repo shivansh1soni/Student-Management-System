@@ -1,7 +1,7 @@
-package com.shivansh.studentmanagementsystem.services;
+package com.shivansh.services;
 
-import com.shivansh.studentmanagementsystem.models.Student;
-import com.shivansh.studentmanagementsystem.repositories.StudentRepository;
+import com.shivansh.models.Student;
+import com.shivansh.repositories.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.shivansh.studentmanagementsystem.controllers;
+package com.shivansh.controllers;
 
-import com.shivansh.studentmanagementsystem.models.AcademicRecord;
-import com.shivansh.studentmanagementsystem.services.AcademicRecordService;
+import com.shivansh.models.AcademicRecord;
+import com.shivansh.services.AcademicRecordService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

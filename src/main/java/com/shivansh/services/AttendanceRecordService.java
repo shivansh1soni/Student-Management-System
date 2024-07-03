@@ -1,7 +1,7 @@
-package com.shivansh.studentmanagementsystem.services;
+package com.shivansh.services;
 
-import com.shivansh.studentmanagementsystem.models.AttendanceRecord;
-import com.shivansh.studentmanagementsystem.repositories.AttendanceRecordRepository;
+import com.shivansh.models.AttendanceRecord;
+import com.shivansh.repositories.AttendanceRecordRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

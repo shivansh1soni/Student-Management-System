@@ -1,4 +1,4 @@
-package com.shivansh.studentmanagementsystem.models;
+package com.shivansh.models;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.Data;
